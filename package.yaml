@@ -1,0 +1,3 @@
+# Toit Package File.
+name: rtttl-player
+description: The player converts a music string in "Ring Tone Text Transfer Language" code into pitch and duration.
